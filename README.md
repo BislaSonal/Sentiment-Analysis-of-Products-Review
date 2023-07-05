@@ -14,3 +14,19 @@ Source Datasets :
       https://data.world/promptcloud/amazon-mobile-phone-reviews
 
       Description: This Dataset contains information of Product Title, Brand, Price, Rating, Review Text
+
+Project Milestones:
+
+Phase 1 : Data Storage and Cleaning
+
+Tools - Hadoop and Pyspark
+
+Phase 2 : Experimentations
+
+Tools - Python
+
+Deep Learning Models - RNN, CNN , Transformers ( BERT )
+
+Phase 3 : Visualization and Insights
+
+Tools - Python and Tableau
