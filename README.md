@@ -5,7 +5,7 @@ Datasets :
 
 1) Flipkart Products Review Dataset
    
-      https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset/discussion?select=flipkart_product.csv
+      https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset/discussion?select=flipkart_product
 
       Description: This Dataset contains information of Products Name, Price, Review, Rate, Summary for the Sentiment Analysis Purpose. 
 
