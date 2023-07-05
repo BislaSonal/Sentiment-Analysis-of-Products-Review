@@ -1,7 +1,7 @@
 # Sentiment-Analysis-of-Products-Review
 Project Topic: Sentiment Analysis of Products Review for E-commerce Platform
 
-Datasets :
+Source Datasets :
 
 1) Flipkart Products Review Dataset
    
