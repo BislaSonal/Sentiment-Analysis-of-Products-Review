@@ -1,7 +1,11 @@
 # Sentiment-Analysis-of-Products-Review
 Project Topic: Sentiment Analysis of Products Review for E-commerce Platform
 
-Source Datasets :
+#Project Overview
+
+This project utilizes sentiment analysis to assess product's market performance by analyzing customer reviews, ratings, and prices on e-commerce platforms. Extracting insights from customer behavior enables strategic decisions, such as adjusting product prices, driving business success and growth. The objective is to provide valuable insights that enhance businesses' understanding of product strengths, weaknesses, and opportunities for improvement.
+
+#Source Datasets :
 
 1) Flipkart Products Review Dataset
    
@@ -15,18 +19,18 @@ Source Datasets :
 
       Description: This Dataset contains information of Product Title, Brand, Price, Rating, Review Text
 
-Project Milestones:
+#Project Milestones:
 
-Phase 1 : Data Storage and Cleaning
+   Phase 1 : Data Storage and Cleaning
 
-Tools - Hadoop and Pyspark
+             Tools - Hadoop and Pyspark
 
-Phase 2 : Experimentations
+   Phase 2 : Experimentations
 
-Tools - Python
+             Tools - Python
 
-Deep Learning Models - RNN, CNN , Transformers ( BERT )
+             Deep Learning Models - RNN, CNN , Transformers ( BERT )
 
-Phase 3 : Visualization and Insights
+   Phase 3 : Visualization and Insights
 
-Tools - Python and Tableau
+             Tools - Python and Tableau
