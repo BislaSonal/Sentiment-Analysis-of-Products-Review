@@ -18,12 +18,16 @@ This project utilizes sentiment analysis to assess product's market performance 
       https://data.world/promptcloud/amazon-mobile-phone-reviews
 
       Description: This Dataset contains information of Product Title, Brand, Price, Rating, Review Text
+   
+Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobiles.rar "
 
 #Project Milestones:
 
    Phase 1 : Data Storage and Cleaning
 
              Tools - Hadoop and Pyspark
+             
+             Processed data files - "amazon_data.rar and flipkart_data.rar"
 
    Phase 2 : Experimentations
 
