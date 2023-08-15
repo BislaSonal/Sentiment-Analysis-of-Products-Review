@@ -25,18 +25,18 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
    Phase 1 : Data Storage and Cleaning
 
-             Tools - Hadoop and Pyspark
+            Tools - Hadoop and Pyspark
              
-             Processed data files - "amazon_data.rar and flipkart_data.rar"
+            Processed data files - "amazon_data.rar and flipkart_data.rar"
 
    Phase 2 : Experimentations
 
-             Tools - Python
+            Final processed data files -"amazon_data_refined1.rar and flipkart_processed_output.rar"
 
-             Deep Learning Models - RNN, CNN , Transformers ( BERT )
+            Tools - Python
 
-             Final processed data files -"amazon_data_refined1.rar and flipkart_processed_output.rar"
+            Deep Learning Models - RNN, CNN , Transformers ( BERT )
 
    Phase 3 : Visualization and Insights
 
-             Tools - Python and Tableau
+            Tools - Python and Tableau
