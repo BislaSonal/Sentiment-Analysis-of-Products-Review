@@ -39,4 +39,4 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
    Phase 3 : Visualization and Insights
 
-            Tools - Python and Tableau
+            Tools - Python Liberaries
