@@ -31,11 +31,11 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
    Phase 2 : Experimentations
 
-            Final processed data files -"amazon_processed_output.rar and flipkart_processed_output.rar"
-
             Tools - Python
 
             Deep Learning Models - RNN, CNN , Transformers ( BERT )
+
+            Final processed data files -"amazon_processed_output.rar and flipkart_processed_output.rar"
 
    Phase 3 : Visualization and Insights
 
