@@ -31,7 +31,7 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
    Phase 2 : Experimentations
 
-            Final processed data files -"amazon_data_refined1.rar and flipkart_processed_output.rar"
+            Final processed data files -"amazon_processed_output.rar and flipkart_processed_output.rar"
 
             Tools - Python
 
