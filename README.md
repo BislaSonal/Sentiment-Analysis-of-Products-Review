@@ -31,7 +31,7 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
    Phase 2 : Experimentations
 
-            Tools - Python
+            Tools - Python in Google Colab
 
             Deep Learning Models - RNN, CNN , Transformers ( BERT )
 
@@ -39,4 +39,4 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
    Phase 3 : Visualization and Insights
 
-            Tools - Python Liberaries
+            Tools - Python Liberaries in Google Colab
