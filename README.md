@@ -27,11 +27,15 @@ Note : Original files " Dataset1_flipkart_product.rar and Dataset2_Amazon_Mobile
 
             Tools - Hadoop and Pyspark
              
-            Processed data files - "amazon_data.rar and flipkart_data.rar"
+            Processed data files - "amazon_data.rar and flipkart_data.rar" ( 60% to 70% data is being cleaned here )
 
    Phase 2 : Experimentations
 
             Tools - Python in Google Colab
+            
+            Processed data files - "amazon_data_refined1.rar" and "flipkart_data_refined1.rar" ( Remaining 30% to 40% data is being cleaned here , finally the most 
+            
+            cleaned data )
 
             Deep Learning Models - RNN, CNN , Transformers ( BERT )
 
